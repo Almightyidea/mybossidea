@@ -46,6 +46,15 @@
                   </p>
                 </div>
                 <div class="flex flex-wrap mr-4 mt-5">
+                  <div>
+                    <button
+                    style="background-color:#00aae7"
+                      class="bg-emerald-500 text-white active:bg-emerald-600 text-xs font-bold uppercase px-4 py-2 rounded shadow hover:shadow-lg outline-none focus:outline-none lg:mr-1 lg:mb-0 ml-3 mb-3 ease-linear transition-all duration-150"
+                      type="submit"
+                    >
+                    <a href="/connect">JOIN WHITELIST</a> 
+                    </button>
+                  </div>
                   <div class="">
                     <button
                       style="background-color:#00aae7"
@@ -82,15 +91,7 @@
                     <a href="/connect">RECOVERY</a> 
                     </button>
                   </div>
-                  <div>
-                    <button
-                    style="background-color:#00aae7"
-                      class="bg-emerald-500 text-white active:bg-emerald-600 text-xs font-bold uppercase px-4 py-2 rounded shadow hover:shadow-lg outline-none focus:outline-none lg:mr-1 lg:mb-0 ml-3 mb-3 ease-linear transition-all duration-150"
-                      type="submit"
-                    >
-                    <a href="/connect">JOIN WHITELIST</a> 
-                    </button>
-                  </div>
+                  
 
                 </div>
               </div>
